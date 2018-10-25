@@ -1,3 +1,6 @@
 print("Hello, World!")
 print("Baka desu yo")
-print("{} " + "{} " + "{} ".format("A", "B", "C"))
+print("{} {} {} ".format("A", "B", "C"))
+print("ADNU", 2018, end="", sep="-")
+print("CSNHS", 2019)
+print("CSNHS")
