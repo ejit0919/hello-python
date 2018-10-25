@@ -2,7 +2,7 @@ data = {"name" : "Elmer Joshua Isaac J. Tanay",
         "animal" : "Bear",
         "reason" : "it hibernates",
         "hobby" : "sleep",
-        "profession" : "Psychologist"
+        "profession" : "Psychologist",
         }
 
 print("I am {}".format(data["name"]))
