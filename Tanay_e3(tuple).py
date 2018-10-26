@@ -1,5 +1,4 @@
 user_input = input("Enter a comma separated list of numbers: ")
-user_input = user_input.split(",")
 
 index = 0
 sum = 0
